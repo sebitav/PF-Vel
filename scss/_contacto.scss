@@ -1,0 +1,24 @@
+/*----FORMULARIO---*/ 
+.terms {
+	text-decoration: underline;
+  }
+  
+  input::placeholder {
+	font-style: oblique;
+  }
+
+form{
+  padding-left: 5rem ;
+}
+
+
+  label {
+  padding-left: 1rem;
+  padding-top: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+	font-size: 1.8rem;
+  width: 10rem;
+	height: 5rem;
+	display: inline-block;
+  }
